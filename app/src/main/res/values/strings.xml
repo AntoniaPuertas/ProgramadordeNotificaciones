@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Programador de Notificaciones</string>
+    <string name="servicio_de_trabajos">Servicio de trabajos</string>
+    <string name="trabajo_completo">El trabajo se completó</string>
+    <string name="job_service_notification">Job Service notification</string>
+    <string name="notificacion_servicio_trabajos">Notificación del servicio de trabajos</string>
+    <string name="tipo_notificacion_requerido">Tipo de conexion</string>
+    <string name="ninguna">Ninguna</string>
+    <string name="alguna">Alguna</string>
+    <string name="wifi">Wifi</string>
+    <string name="requiere">Requiere</string>
+    <string name="dispositivo_inactivo">Dispositivo inactivo</string>
+    <string name="dispositivo_cargando">Dispositivo Cargando</string>
+    <string name="anular">Anular</string>
+    <string name="programar">Programar</string>
+    <string name="trabajo_programado">Trabajo programado: El trabajo se ejecutará cuando se cumplan las condiciones</string>
+    <string name="anular_fecha_limite">"Fecha límite para anular: "</string>
+    <string name="sin_seleccionar">Sin seleccionar</string>
+</resources>
